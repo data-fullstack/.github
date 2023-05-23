@@ -1,5 +1,5 @@
 ## Hi there 👋
-超越DataWorks、Dataphin的数据解决方案，欢迎联系合作！
+超越DataWorks、Dataphin的数据解决方案，欢迎联系合作！ VX：19884163520
 <!--
 
 **Here are some ideas to get you started:**
